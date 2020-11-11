@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample blog post
+title: 서울시 아파트 집값 분석 프로젝트
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
